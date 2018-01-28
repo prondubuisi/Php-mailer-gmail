@@ -6,7 +6,7 @@ knowledge base
  
 https://github.com/PHPMailer/PHPMailer
  
-https://stackoverflow.com/questions/21545448/phpmailer-sent-message-but-returned-client-server-dialog-to-browser
+https://stackoverflow.com/questions/22927634/smtp-connect-failed-phpmailer-php
  
 */
  
